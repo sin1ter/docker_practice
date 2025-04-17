@@ -52,7 +52,7 @@ fullStack_docker/
 
 3. Access the applications:
    - Backend API: http://localhost:8000
-   - Frontend: http://localhost:3000 (port may vary based on frontend framework)
+   - Frontend: http://localhost:3000
 
 ## 💻 Development
 
